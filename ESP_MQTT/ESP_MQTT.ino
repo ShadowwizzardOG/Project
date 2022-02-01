@@ -2,7 +2,7 @@
 #include <WiFi.h>
  
 const char* ssid     = "Rasp"; // ESP32 and ESP8266 uses 2.4GHZ wifi only
-const char* password = "ChangeMe"; 
+const char* password = "WeetIkVeel"; 
  
 //MQTT Setup Start
 #include <PubSubClient.h>
